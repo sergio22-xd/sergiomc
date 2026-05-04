@@ -2,7 +2,7 @@ public class main {
     public static void main(String[] args) {
         saludo();
     }
-//conflicto nuevo
+//esto es un para conflicto
     private static void saludo() {
         System.out.println("Hola mundo");
     }
